@@ -17,11 +17,11 @@ Home cooks in Jordan take orders through Google Forms, WhatsApp and spreadsheets
 I designed, built and run it alone, working with AI coding tools under strict review and testing rules.
 
 <p align="center">
-  <img src="images/shop-english.png" width="32%" alt="The Dumpling Mama shop in English: delivery days and dishes with photos">
-  <img src="images/shop-arabic.png" width="32%" alt="The same shop in Arabic, laid out right to left">
-  <img src="images/admin-orders.png" width="32%" alt="The owner's Orders page, grouped by delivery day">
+  <img src="images/shop-english.png" width="240" alt="The Dumpling Mama shop in English: delivery days and dishes with photos">
+  &nbsp;
+  <img src="images/shop-arabic.png" width="240" alt="The same shop in Arabic, laid out right to left">
 </p>
-<p align="center"><sub>The shop in English and Arabic, and the owner's Orders page (demo orders)</sub></p>
+<p align="center"><sub>The same shop in English and Arabic</sub></p>
 
 ### Stack
 
@@ -38,6 +38,11 @@ Deployed from GitHub Actions to Railway, with Cloudflare R2 for photos and Resen
 - **Arabic, right to left.** Full Arabic and English. Dates and phone numbers are isolated so they don't flip in right-to-left text, a bug the tests missed and the browser caught.
 - **Order filters in the URL.** One schema is shared by the page, the URL and the API, and paging uses a cursor so new orders don't cause skipped or repeated rows.
 - **Migrations without downtime.** New columns ship on their own; removing one takes two deploys, so the live shop never meets a column it doesn't expect.
+
+<p align="center">
+  <img src="images/admin-orders.png" width="240" alt="The owner's Orders page: a prep summary for the day, then each order with its next step">
+</p>
+<p align="center"><sub>The owner's Orders page (demo orders)</sub></p>
 
 ### How it's kept honest
 
