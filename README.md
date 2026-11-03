@@ -1,6 +1,6 @@
 # Hi, I'm Bashar 👋
 
-Full-stack engineer in Amman, Jordan, working remotely. I build the shared foundations a team ships on (component kits, store factories, base controllers) and the products that sit on top of them.
+Full-stack engineer working remotely (UTC+3). I build the shared foundations a team ships on (component kits, store factories, base controllers) and the products that sit on top of them.
 
 **Vue / Nuxt · TypeScript · Laravel · PostgreSQL** · Arabic and English · open to remote roles
 
