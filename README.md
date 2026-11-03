@@ -2,9 +2,9 @@
 
 Full-stack engineer working remotely (UTC+3). I build the shared foundations a team ships on (component kits, store factories, base controllers) and the products that sit on top of them.
 
-**Vue / Nuxt · TypeScript · Laravel · PostgreSQL** · Arabic and English · open to remote roles
+**Vue / Nuxt · TypeScript · Laravel · PostgreSQL** · Arabic and English · Canadian and Jordanian citizen · open to remote roles
 
-[LinkedIn](https://www.linkedin.com/in/bashar-othman) · basharothman.work@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bashar-othman)
 
 ---
 
@@ -15,6 +15,13 @@ Full-stack engineer working remotely (UTC+3). I build the shared foundations a t
 Home cooks in Jordan take orders through Google Forms, WhatsApp and spreadsheets. basta.my gives each one a real shop: its own subdomain, a menu with photos, delivery and pickup days with cutoffs, checkout, and an admin for the owner and staff.
 
 I designed, built and run it alone, working with AI coding tools under strict review and testing rules.
+
+<p align="center">
+  <img src="images/shop-english.png" width="32%" alt="The Dumpling Mama shop in English: delivery days and dishes with photos">
+  <img src="images/shop-arabic.png" width="32%" alt="The same shop in Arabic, laid out right to left">
+  <img src="images/admin-orders.png" width="32%" alt="The owner's Orders page, grouped by delivery day">
+</p>
+<p align="center"><sub>The shop in English and Arabic, and the owner's Orders page (demo orders)</sub></p>
 
 ### Stack
 
