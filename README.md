@@ -46,15 +46,21 @@ Deployed from GitHub Actions to Railway, with Cloudflare R2 for photos and Resen
 
 ### How it's kept honest
 
-- About 200 test files: unit, component, real-database and HTTP tests
-- 12 custom lint rules that each block a whole class of bug (money, dates, right-to-left layout, auth, validation)
+- About 250 test files: unit, component, real-database and HTTP tests
+- 15 custom lint rules that each block a whole class of bug (money, dates, right-to-left layout, auth, validation)
 - CI runs typecheck, tests and every lint rule before anything deploys
 
 ### Recent work
 
+- **Nov 2026:** a home page for basta.my itself, where a shop owner can open a shop or get a sign-in link to theirs by email; checkout that can't place the same order twice when a phone loses signal and tries again
 - **Oct–Nov 2026:** redesigned every admin page and the customer shop, each one mocked up first and built to match
 - **Oct 2026:** add-ons (extras on menu items); shop sign-up and approval opened on basta.my
 - **Sep 2026:** first shop live
+
+<p align="center">
+  <img src="images/landing.png" width="240" alt="The basta.my home page on a phone: Your bakery, online by tonight, with buttons to open a shop or sign in">
+</p>
+<p align="center"><sub>basta.my's own home page</sub></p>
 
 ---
 
